@@ -1,8 +1,8 @@
-## Hello 👋
+> U1 Software Engineering @ McGill University  
+>   
+> _Hello! Welcome to my page. There's nothing much for now. But that will change soon._
 
-![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **redacted24/redacted24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
