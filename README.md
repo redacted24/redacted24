@@ -3,8 +3,9 @@
 > _Hello! Welcome to my page. There's nothing much for now. But that will change soon._
 
 ![Metrics](/github-metrics.svg)
+<!--
 ![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+<!--
 <!--
 ![](https://raw.githubusercontent.com/redacted24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 -->
