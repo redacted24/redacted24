@@ -1,6 +1,6 @@
 > U1 Software Engineering @ McGill University  
 >   
-> _Hello! Welcome to my page. There's nothing much for now..._
+> _Hello! Welcome to my page._
 
 ![Metrics](/github-metrics.svg)
 <!--
