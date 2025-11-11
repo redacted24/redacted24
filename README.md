@@ -1,6 +1,6 @@
-> U1 Software Engineering @ McGill University  
->   
-> _Hello! Welcome to my page._
+> _I love tinkering with stuff._
+> 
+> [qyhuang.xyz](https://qyhuang.xyz)
 
 ![Metrics](/github-metrics.svg)
 <!--
