@@ -1,7 +1,7 @@
 > Hey, I'm Qiuyu, a software eng. student at McGill University. I like making stuff.
 > 
 > - 🔭 I’m currently working on a turn-based roguelike game. This is a long-term project.
-> - 🌱 I’m currently learning C/C++ and some light graphics programming.
+> - 🌱 I’m currently learning C/C++ and some graphics programming.
 > 
 > Come checkout my website: [qyhuang.xyz](https://qyhuang.xyz)
 
