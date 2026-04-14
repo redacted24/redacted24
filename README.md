@@ -1,6 +1,9 @@
-> _I love tinkering with stuff._
+> Hey, I'm Qiuyu, a software eng. student at McGill University. I like making stuff.
 > 
-> [qyhuang.xyz](https://qyhuang.xyz)
+> - 🔭 I’m currently working on a turn-based roguelike game. This is a long-term project.
+> - 🌱 I’m currently learning C/C++ and some light graphics programming.
+> 
+> Come checkout my website: [qyhuang.xyz](https://qyhuang.xyz)
 
 ![Metrics](/github-metrics.svg)
 <!--
@@ -14,8 +17,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
