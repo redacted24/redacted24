@@ -1,4 +1,4 @@
-> Hey, I'm Qiuyu, a software eng. student at McGill University. I like making stuff.
+> Hi, I'm Qiuyu. I like building.
 > 
 > - 🔭 I’m currently working on a turn-based roguelike game. This is a long-term project.
 > - 🌱 I’m currently learning C/C++ and some graphics programming.
