@@ -1,7 +1,6 @@
-> Hi, I'm Qiuyu. I like building.
+> Hey, I'm Qiuyu. I'm a programmer from Montreal.
 > 
-> - 🔭 I’m currently working on a turn-based roguelike game. This is a long-term project.
-> - 🌱 I’m currently learning C/C++ and some graphics programming.
+> I like building interesting stuff to learn.
 > 
 > Come checkout my website: [qyhuang.xyz](https://qyhuang.xyz)
 
