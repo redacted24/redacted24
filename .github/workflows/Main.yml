@@ -16,7 +16,8 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          user: redacted24
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_order: base.header, isocalendar, languages
           plugin_isocalendar: yes
