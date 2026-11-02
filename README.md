@@ -1,9 +1,8 @@
 > Hi, I'm Qiuyu, a programmer and a student from Montreal.
 > 
-> I like learning and building things I'm passionate about, usually without help from AI tools. 🤭😈
+> I like learning and building things I'm passionate about, usually without help from AI tools. 😈
 > 
-> I'm interested in graphics programming, firmware engineering, game engine development and building projects end-to-end.<br>
-> I have professional experience in fullstack dev.
+> I'm interested in graphics programming, firmware engineering, game engine development and building projects end-to-end. I have professional experience in full-stack dev.
 > 
 > Check out my [portfolio](https://qyhuang.xyz), my [dotfiles](https://github.com/redacted24/dotfiles), or the [mini game engine](https://github.com/redacted24/minigine) I'm working on.
 >
