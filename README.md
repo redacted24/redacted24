@@ -1,6 +1,6 @@
 > Hi, I'm Qiuyu, a programmer and a student from Montreal.
 > 
-> I like learning and building things I'm passionate about, usually without help from AI tools. 😈
+> I like reading, learning and building things I'm passionate about.
 > 
 > I'm interested in graphics programming, firmware engineering, game engine development and building projects end-to-end. I have professional experience in full-stack dev.
 > 
