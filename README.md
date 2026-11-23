@@ -4,7 +4,7 @@
 > 
 > I'm interested in graphics programming, firmware engineering, game engine development and building projects end-to-end. I have professional experience in full-stack dev.
 > 
-> Check out my [portfolio](https://qyhuang.xyz), my [dotfiles](https://github.com/redacted24/dotfiles), or the [mini game engine](https://github.com/redacted24/minigine) I'm working on.
+> Check out my [portfolio](https://redacted24.github.io), my [dotfiles](https://github.com/redacted24/dotfiles), or the [mini game engine](https://github.com/redacted24/minigine) I'm working on.
 >
 > Stay safe out there!
 
